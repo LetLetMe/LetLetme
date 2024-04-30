@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 
 - 😄 I’m LetLetme(Yitao Hu)
 - 🔭 I’m currently working on Alibaba Cloud 
-- 🌱 I’m currently learning RocketMQ
+- 🌱 I’m currently working for RocketMQ
 - 📫 How to reach me: LetLetMePLZ (WeChet)
 
